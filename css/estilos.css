@@ -8,3 +8,12 @@ h1{
 p{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+h2{
+    font-family: cursive;
+    text-align: center;
+    color: chartreuse;
+}
+.parrafo3{
+    text-align: center;
+    background-color: aquamarine;
+}
